@@ -1,0 +1,23 @@
+git clone git@github.com:speechify-recruiting/data-acq-functional-Chetana9923.git
+git push origin main
+#Implementing LRUCache 
+class LRUCache;
+defget(self,key);
+pass
+defhas(self,key);
+pass
+defset(self,key);
+pass
+#Implementing parseSSML
+parseSSML;
+defparseSSML(ssml:str);
+pass
+#Implemeting SSMLNode to text
+ssml_nodeto text;
+defssmlNodeToText(node);
+pass
+# Installs dependencies
+make install
+
+# Runs tests
+make test
